@@ -1,14 +1,20 @@
 ### Hey there👋
 -----------------------------------
-- 👨‍🔧 I’m currently working and learning on Data Science/Machine Learning Projects and Kaggle.
+- 👨‍🔧 I’m currently working on end to end AI project.
+
+- 📙 I'm currently learning: PyTorch, NLP and MLOPS.
 
 - 🔎 I’m looking for internships/jobs in Data Science field.
 
-- ⚡ Tools and technologies: C/C++, Python, Java, ML/DL/NLP, Data Analytics, Docker, Tableau and web development (python).
+- ⚡ Programing Languages: (*Proficient*)- C/C++, Python, SQL, Java, (*familiar*)- R, HTML-CSS, JavaScrip, PHP.
 
-- 📃 [My Resume](https://drive.google.com/file/d/11hGt5EreZQmc6zQ93RNRcDuAalKdFS-C/view?usp=sharing)
+- 🔦 Technical tools: Numpy, Pandas, Matplotlib/Seaborn/Plotly, Sklearn, Tensorflow-keras, PyTorch, transformers, openCV, Docker, Tableau, Excel.
+
+- 👓 Non-technical (*subjects*): Data-Mining, cleaning, visualization, analysis. Statistics, Machine Learning, Deep Learning, NLP, Computer Vision, MLOPs, Web Development using **Python**, OOPs.
+
+- 🏆 Achievements: A Kaggle notebooks expert, Gold badge in Python, C/C++ and SQL on HackerRank.
 
 - 📫 How to reach me: [GMAIL](karanshingde@gmail.com) | [TWITTER](https://twitter.com/karan842/) | [LINKEDIN](https://www.linkedin.com/in/karan-shingde-75a062217/)
 
-- ⚡ Fun fact: I failed in C programming exam in first year
+- ⚡ Fun fact: I failed in C programming exam at my first year.
 
