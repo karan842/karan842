@@ -18,5 +18,5 @@
 
 - 📫 How to reach me: [GMAIL](karanshingde@gmail.com) | [TWITTER](https://twitter.com/karan842/) | [LINKEDIN](https://www.linkedin.com/in/karan-shingde-75a062217/)
 
-- ⚡ Fun fact: I failed in C programming exam at my first year.
+- ⚡ Fun fact: I failed at C programming exam in my first year.
 
