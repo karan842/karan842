@@ -14,7 +14,7 @@
 
 - ☁️ Cloud Service: Amazon Web Services (Sagemaker, Elastic Beanstalk and EC2 instance).
 
-- 🏆 Achievements: A Kaggle notebooks expert, Gold badge in Python, C/C++ and SQL on HackerRank.
+- 🏆 Achievements: A [KAGGLE](https://kaggle.com/karan842/) notebooks expert, Gold badge in Python, C/C++ and SQL on HackerRank.
 
 - 🎠 Interests: Football and Cricket, books, technology, geopolitics, fitness, music/movies.
 
