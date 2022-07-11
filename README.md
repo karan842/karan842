@@ -6,7 +6,7 @@
 
 - 🔎 I’m looking for internships/jobs in Data Science field.
 
-- ⚡ Programing Languages: (*Proficient*)- C/C++, Python, SQL, Java, (*familiar*)- R, HTML-CSS, JavaScrip, PHP.
+- 💭 Programing Languages: (*Proficient*)- C/C++, Python, SQL, Java, (*familiar*)- R, HTML-CSS, JavaScrip, PHP.
 
 - 🔦 Technical tools: Numpy, Pandas, Matplotlib/Seaborn/Plotly, Sklearn, Tensorflow-keras, PyTorch, transformers, openCV, Docker, Tableau, Excel.
 
