@@ -2,7 +2,7 @@
 -----------------------------------
 - 👨‍🔧 I’m currently working as a Data Science intern.
 
-- 📙 I'm currently learning: PyTorch, NLP and Advance Computer Vision.
+- 📙 I'm currently learning: PyTorch-NLP and Apache Spark.
 
 - 🔎 I’m looking for opportunities in Data Science domain.
 
@@ -20,7 +20,7 @@
 
 - 🎠 Interests: Football and Cricket, books, technology, geopolitics, fitness, music/movies.
 
-- 📫 How to reach me: [GMAIL](karanshingde@gmail.com) | [TWITTER](https://twitter.com/karan842/) | [LINKEDIN](https://www.linkedin.com/in/karan-shingde-75a062217/)
+- 📫 How to reach me: [GMAIL](karanshingde@gmail.com) | [TWITTER](https://twitter.com/karan842/) | [LINKEDIN](https://www.linkedin.com/in/karanshingde/)
 
 - ⚡ Fun fact: I failed at C programming exam in my first year.
 
