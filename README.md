@@ -1,18 +1,18 @@
 ### Hello👨‍🚀🚀
 -----------------------------------
-- 👨‍🔧 I’m currently working as a Data Science intern.
+- 👨‍🔧 I’m currently working as Machine Learning intern.
 
-- 📙 I'm currently learning: PyTorch-NLP and Apache Spark.
+- 📙 I'm currently learning: MLOPs and PySpark.
 
-- 🔎 I’m looking for opportunities in Data Science domain.
+- 🔎 I’m looking for opportunities in as a full-time in Data Science.
 
 - 🌱 I like to help people, who wanted to learn Data Science by their own.
 
-- 💭 Programing Languages: C/C++, Python, SQL, Java, and R.
+- 💭 Programing Languages: C/C++, Python, SQL, and Java
 
-- 🔦 Technical tools: Numpy, Pandas, Matplotlib/Seaborn/Plotly, Sklearn, Tensorflow-keras, PyTorch, transformers, openCV, Docker, Tableau,and Django 
+- 🔦 Technical tools: Numpy, Pandas, Matplotlib/Seaborn/Plotly, Sklearn, Tensorflow-keras, PyTorch, transformers, openCV, Docker, Tableau, CI/CD, and Django 
 
-- 👓 Non-technical (*subjects*): Data-Mining, cleaning, visualization, analysis. Statistics, Time Series Analysis, Machine Learning, Deep Learning, NLP, Computer Vision, MLOPs, Web Development using **Python**, OOPs.
+- 👓 Non-technical (*subjects*) / I can work on: Data-Mining, cleaning, visualization, analysis. Statistics, Time Series Analysis, Machine Learning, Deep Learning, NLP, Computer Vision, MLOPs, and Web Development using **Python**.
 
 - ☁️ Cloud Service: Amazon Web Services (Sagemaker, Elastic Beanstalk, RDS, S3, and EC2 instance).
 
