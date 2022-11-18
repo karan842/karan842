@@ -22,6 +22,6 @@
 
 - Fun Fact: I got 8/50 at C programming exam in my first year🙄
 
-> I am a fitness enthusiats🏋🏽 | Supporter of Indian Cricket and Reak Madrid🏆 | Love music and space science😃
+> I am a fitness enthusiats🏋🏽 | Supporter of Indian Cricket and Rea Madrid🏆 | Love music and space science😃
 
 <img src='https://github.com/karan842/karan842/blob/master/icons/data.png' height=300px width=400px></img>
