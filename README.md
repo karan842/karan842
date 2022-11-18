@@ -1,26 +1,8 @@
-### Hello👨‍🚀🚀
------------------------------------
-- 👨‍🔧 I’m currently working as Machine Learning intern.
+# Hey there🧑‍🚀🚀
 
-- 📙 I'm currently learning: MLOPs and PySpark.
+- I am Data Science aspirant specillay into MLOps🔨, NLP (Conversational AI)💭, and Analytics📊
+- I did my graduation in Bsc. Computer Science from Pune University - 2022 🧑🏽‍🎓
+- I am a Kaggle notebooks expert🥼 | 5🌟coder on HackerRank in Python, C++, and SQL
 
-- 🔎 I’m looking for opportunities in as a full-time in Data Science.
-
-- 🌱 I like to help people, who wanted to learn Data Science by their own.
-
-- 💭 Programing Languages: C/C++, Python, SQL, and Java
-
-- 🔦 Technical tools: Numpy, Pandas, Matplotlib/Seaborn/Plotly, Sklearn, Tensorflow-keras, PyTorch, transformers, openCV, Docker, Tableau, CI/CD, and Django 
-
-- 👓 Non-technical (*subjects*) / I can work on: Data-Mining, cleaning, visualization, analysis. Statistics, Time Series Analysis, Machine Learning, Deep Learning, NLP, Computer Vision, MLOPs, and Web Development using **Python**.
-
-- ☁️ Cloud Service: Amazon Web Services (Sagemaker, Elastic Beanstalk, RDS, S3, and EC2 instance).
-
-- 🏆 Achievements: A [Kaggle](https://kaggle.com/karan842/) notebooks expert, Gold badge in Python, C/C++ and SQL on HackerRank.
-
-- 🎠 Interests: Football and Cricket, books, technology, geopolitics, fitness, music/movies.
-
-- 📫 How to reach me: [GMAIL](karanshingde@gmail.com) | [TWITTER](https://twitter.com/karan842/) | [LINKEDIN](https://www.linkedin.com/in/karanshingde/)
-
-- ⚡ Fun fact: I failed at C programming exam in my first year.
-
+## Tools and Technologies -
+<img src='[https://github.com/karan842/finohub/blob/master/media/FinoHub.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fpython-logo-icon-vector-logos-logo-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-emblem-wallpaper-background-python-image208329675&psig=AOvVaw12Bxt-tMwDan2_Mk5OnIyd&ust=1668838226009000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPC2m_-It_sCFQAAAAAdAAAAABAI)' height=290px width=300px></img>
