@@ -19,6 +19,8 @@
 
 ## Extras: 
 
+![](https://komarev.com/ghpvc/?username=karan842&label=PROFILE+VIEWS)
+
 
 - Fun Fact: I got 8/50 at C programming exam in my first year🙄
 
