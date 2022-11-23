@@ -13,9 +13,6 @@
 
 [Leetcode](https://leetcode.com/karanshingde/) | [HackerRank](https://www.hackerrank.com/karanshingde) | [Kaggle](https://www.kaggle.com/karan842)
 
-## Contacts -
-
-[Gmail](karanshingde@gmail.com) | [Twitter](https://twitter.com/KuchBhiKaran) | [LinkedIn](https://linkedin.com/in/karanshingde)
 
 <!-- <hr>
 
@@ -24,7 +21,7 @@
 
 <hr> -->
 
-#### You can also find me on- 
+## Contact me - 
 
 [<img align="left" alt="karanshingde | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="karanshingde | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
@@ -46,6 +43,8 @@
 [![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karan842)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan842&" alt="karan842" /></p>
+
+
 - Fun Fact: I got 8/50 at C programming exam in my first year🙄
 
 > I am a fitness enthusiats🏋🏽 | Supporter of Indian Cricket and Rea Madrid🏆 | Love music and space science😃
