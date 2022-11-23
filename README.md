@@ -1,4 +1,4 @@
-# Hey there🧑‍🚀🚀
+<h1 align="center">I'm Karan🧑🏽‍🚀</h1>
 
 - I am Data Science aspirant specillay into MLOps🔨, NLP (Conversational AI)💭, and Analytics📊
 - I did my graduation in Bsc. Computer Science from Pune University - 2022 🧑🏽‍🎓
