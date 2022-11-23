@@ -3,7 +3,8 @@
 - I am Data Science aspirant specillay into MLOps🔨, NLP (Conversational AI)💭, and Analytics📊
 - I did my graduation in Bsc. Computer Science from Pune University - 2022 🧑🏽‍🎓
 - I am a Kaggle notebooks expert🥼 | 5🌟coder on HackerRank in Python, C++, and SQL
-- Helping people to solve their data science related queries (just drop the mail)📩
+- Helping people to solve their data science related queries 
+- 📩 karanshingde@gmail.com
 - Open for collabrations and jobs💼
 
 ## Tools and Technologies -
@@ -25,7 +26,6 @@
 
 [<img align="left" alt="karanshingde | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="karanshingde | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][gmail]
 
 <br>
 
@@ -33,7 +33,6 @@
 
 [linkedin]: https://www.linkedin.com/in/karanshingde
 [twitter]: https://www.twitter.com/KuchBhiKaran
-[gmail]: karanshingde@gmail.com
 
 ## Extras: 
 
