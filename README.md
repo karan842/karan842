@@ -39,8 +39,6 @@
 ![](https://komarev.com/ghpvc/?username=karan842&label=PROFILE+VIEWS)
 
 
-[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karan842)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan842&" alt="karan842" /></p>
 
 
