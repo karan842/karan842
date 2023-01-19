@@ -1,12 +1,12 @@
 <h1 align="center">I'm Karan🧑🏽‍🚀</h1>
 
-- I am Data Science aspirant specillay into MLOps🔨, NLP (Conversational AI)💭, and Analytics📊
-- I did my graduation in Bsc. Computer Science from Pune University - 2022 🧑🏽‍🎓
+- I am Data Science aspirant specillay into MLOps🔨, NLP 💭, and Analytics📊
+- I completed my graduation in Bsc. Computer Science from Pune University - 2022 🧑🏽‍🎓
 - I am a Kaggle notebooks expert🥼 | 5🌟coder on HackerRank in Python, C++, and SQL
 - Helping people to solve their data science related queries 
-- Technical Writer📝 [Medium](https://medium.com/@karanshingde)
+- Technical Writer📝 @[Medium](https://medium.com/@karanshingde)
 - 📩 karanshingde@gmail.com
-- Open for collabrations and jobs💼
+- Looking for a job💼
 
 ## Tools and Technologies -
 <img src='https://github.com/karan842/karan842/blob/master/icons/python-logo-only.png' height=50px width=40px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/MySQL-Logo.png' height=50px width=60px></img>     <img src='https://github.com/karan842/karan842/blob/master/icons/icon-tableau.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/sklearn.png' height=50px width=60px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/Tensorflow_logo.png' height=50px width=45px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/Keras_logo.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/PyTorch_logo.png' height=50px width=45px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/flask.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/fastapi.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/django.png' height=50px width=50px></img> <img src='https://github.com/karan842/karan842/blob/master/icons/Git-Icon-1788C.png' height=50px width=50px></img> <img src='https://github.com/karan842/karan842/blob/master/icons/docker.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/aws-logo.png' height=50px width=60px></img>  
