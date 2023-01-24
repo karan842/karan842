@@ -44,5 +44,3 @@
 
 
 - Fun Fact: I got 8/50 at C programming exam in my first year🙄
-
-> I am a fitness enthusiats🏋🏽 | Supporter of Indian Cricket and Real Madrid🏆 | Love music and space science😃
