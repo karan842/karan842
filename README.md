@@ -4,7 +4,7 @@
 - I completed my graduation in Bsc. Computer Science from Pune University - 2022 🧑🏽‍🎓
 - I am a Kaggle notebooks expert🥼 | 5🌟coder on HackerRank in Python, C++, and SQL
 - Helping people to solve their data science related queries 
-- Technical Writer📝 @[Medium](https://medium.com/@karanshingde)
+- Publishing Tech blogs📝 @[Medium](https://medium.com/@karanshingde)
 - 📩 karanshingde@gmail.com
 - Looking for a job💼
 
