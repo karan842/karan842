@@ -1,7 +1,7 @@
 <h1 align="center">I'm Karan🧑🏽‍🚀🚀</h1>
 
 - I am Data Science aspirant specillay into MLOps🔨, NLP 💭, and Analytics📊
-- I completed my graduation in Bsc. Computer Science from Pune University - 2022 🧑🏽‍🎓
+- I am currently learning Computer Vision and Advance Deep Learning🔭
 - I am a Kaggle notebooks expert🥼 | 5🌟coder on HackerRank in Python, C++, and SQL
 - Helping people to solve their data science related queries 
 - Publishing Tech blogs📝 @[Medium](https://medium.com/@karanshingde)
