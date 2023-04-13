@@ -1,7 +1,6 @@
 <h1 align="center">I'm Karan🧑🏽‍🚀🚀</h1>
 
-- I am Data Science aspirant specillay into MLOps🔨, NLP 💭, and Analytics📊
-- I am currently learning Computer Vision and Advance Deep Learning🔭
+- Self-taught Data Science aspitant having keen interest in Python, NLP, CV, MLOps and Analytics
 - I am a Kaggle notebooks expert🥼 | 5🌟coder on HackerRank in Python, C++, and SQL
 - Helping people to solve their data science related queries 
 - Publishing Tech blogs📝 @[Medium](https://medium.com/@karanshingde)
