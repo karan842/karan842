@@ -5,7 +5,7 @@
 - Working on Freelance ML project💡
 - Kaggle notebooks expert🥼 | 5🌟coder on HackerRank in Python, C++, and SQL
 - Helping people to solve their data science related queries💁🏽
-- Currently learning MLOps🌴 
+- Currently learning MLOps and LLMs🌴 
 - 📩 karanshingde@gmail.com
 - Open for a job💼
 
