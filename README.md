@@ -1,19 +1,20 @@
 <h1 align="center">I'm Karan🧑🏽‍🚀🚀</h1>
 
-- Self-taught Data Scientist 🧑🏽‍💻
 - Expert in building ML pipelines and analytics 🔮
-- Freelancing on cool ML projects 💡
-- Kaggle notebooks expert 🥼 | 5🌟 coder on HackerRank (Python, C++, SQL)
+- Freelancing on ML projects 💡
 - Love helping others with data science queries 💁🏽
 - Currently learning MLOps and LLMs 🌴
-- Open for job opportunities 💼
 - Passionate about space exploration 🌌, football ⚽, and lifting dumbbells 💪
 - Contact: karanshingde@gmail.com 📩
 
-Let's create data magic together! 🎩✨
+> Let's create magic together! 🎩✨
 
 ## Tools and Technologies -
-<img src='https://github.com/karan842/karan842/blob/master/icons/python-logo-only.png' height=50px width=40px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/MySQL-Logo.png' height=50px width=60px></img>     <img src='https://github.com/karan842/karan842/blob/master/icons/icon-tableau.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/sklearn.png' height=50px width=60px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/Tensorflow_logo.png' height=50px width=45px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/Keras_logo.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/PyTorch_logo.png' height=50px width=45px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/flask.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/fastapi.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/django.png' height=50px width=50px></img> <img src='https://github.com/karan842/karan842/blob/master/icons/Git-Icon-1788C.png' height=50px width=50px></img> <img src='https://github.com/karan842/karan842/blob/master/icons/docker.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/aws-logo.png' height=50px width=60px></img>  
+<img src='https://github.com/karan842/karan842/blob/master/icons/python-logo-only.png' height=50px width=40px></img>      <img src='https://github.com/karan842/karan842/blob/master/icons/Tensorflow_logo.png' height=50px width=45px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/Keras_logo.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/PyTorch_logo.png' height=50px width=45px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/opencv_logo_icon_170887.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/flask.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/fastapi.png' height=50px width=50px></img> 
+
+<img src='https://github.com/karan842/karan842/blob/master/icons/dvc_logo.png' height=50px width=90px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/OIP%20(5).jpg' height=50px width=50px></img> <img src='https://github.com/karan842/karan842/blob/master/icons/Sticker-2048w.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/docker.png' height=50px width=55px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/OIP.jpg' height=50px width=55px></img>   <img src='https://github.com/karan842/karan842/blob/master/icons/44036562.png' height=50px width=50px></img>
+
+https://github.com/karan842/karan842/blob/master/icons/Sticker-2048w.png
 
 ## Coding Platforms -
 
@@ -24,8 +25,8 @@ Let's create data magic together! 🎩✨
 
 ## Top Publications - 
 
+- [MLOps Best Practices](https://www.github.com/karan842/mlops-best-practices/)
 - [Design Machine Learning System for NLP/BERT — MLOPs](https://medium.com/@karanshingde/design-machine-learning-system-for-nlp-bert-mlops-681a9af59f66)
-- [Pros and Cons of popular ML algorithms.](https://medium.com/@karanshingde/pros-and-cons-of-popular-ml-algorithms-299170ece6d1)
 
 ## Social Links - 
 
@@ -38,7 +39,7 @@ Let's create data magic together! 🎩✨
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/karanshingde
-[twitter]: https://www.twitter.com/KuchBhiKaran
+[twitter]: https://www.twitter.com/kmeanskaran
 [medium]: https://www.](https://medium.com/@karanshingde
 
 ## Extras: 
