@@ -13,8 +13,6 @@
 
 <img src='https://github.com/karan842/karan842/blob/master/icons/dvc_logo.png' height=50px width=90px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/OIP%20(5).jpg' height=50px width=50px></img> <img src='https://github.com/karan842/karan842/blob/master/icons/Sticker-2048w.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/docker.png' height=50px width=55px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/OIP.jpg' height=50px width=55px></img>   <img src='https://github.com/karan842/karan842/blob/master/icons/44036562.png' height=50px width=50px></img>
 
-https://github.com/karan842/karan842/blob/master/icons/Sticker-2048w.png
-
 ## Coding Platforms -
 
 <a href="https://kaggle.com/karan842" target="blank"><img align="center" src="https://user-images.githubusercontent.com/69749164/235907065-c3430efc-1474-4eae-a7ad-63bcc14c6d3c.png" alt="karanshingde" height="30" width="28" /></a>
