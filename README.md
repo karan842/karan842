@@ -2,12 +2,11 @@
 
 - Expert in building ML pipelines and analytics 🔮
 - Freelancing on ML projects 💡
-- Love helping others with data science queries 💁🏽
 - Currently learning MLOps and LLMs 🌴
-- Passionate about space exploration 🌌, football ⚽, and lifting dumbbells 💪
+- Ask me about Python, ML, DevOps and Gen AI 🙋‍♂️
 - Contact: karanshingde@gmail.com 📩
 
-> Let's create magic together! 🎩✨
+> [My Resume](https://docs.google.com/document/d/1IKr9mIzjBk6cQ1-RaUCAe8DOyJl4OISms1bcZXyvmcw/edit?usp=sharing) 📄
 
 ## Tools and Technologies -
 <img src='https://github.com/karan842/karan842/blob/master/icons/python-logo-only.png' height=50px width=40px></img>      <img src='https://github.com/karan842/karan842/blob/master/icons/Tensorflow_logo.png' height=50px width=45px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/Keras_logo.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/PyTorch_logo.png' height=50px width=45px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/opencv_logo_icon_170887.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/flask.png' height=50px width=50px></img>  <img src='https://github.com/karan842/karan842/blob/master/icons/fastapi.png' height=50px width=50px></img> 
