@@ -2,7 +2,7 @@
 
 - Expert in building ML pipelines and AI systems 🤖
 - Freelancing on ML projects 💡
-- Currently working as ML Engineer🌴
+- Currently working as AI/ML Engineer🌴
 - Ask me about Python, ML, Neural Networks, ML/DevOps, LLM and Gen AI 🙋‍♂️
 - Contact: karanshingde@gmail.com 📩
 
